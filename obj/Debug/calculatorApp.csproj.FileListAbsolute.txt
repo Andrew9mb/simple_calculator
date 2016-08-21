@@ -1,0 +1,12 @@
+D:\Computer Science\C#\calculatorApp\bin\Debug\calculatorApp.exe.config
+D:\Computer Science\C#\calculatorApp\bin\Debug\calculatorApp.exe
+D:\Computer Science\C#\calculatorApp\bin\Debug\calculatorApp.pdb
+D:\Computer Science\C#\calculatorApp\obj\Debug\MainWindow.baml
+D:\Computer Science\C#\calculatorApp\obj\Debug\MainWindow.g.cs
+D:\Computer Science\C#\calculatorApp\obj\Debug\App.g.cs
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp_MarkupCompile.cache
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp.g.resources
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp.Properties.Resources.resources
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp.csproj.GenerateResource.Cache
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp.exe
+D:\Computer Science\C#\calculatorApp\obj\Debug\calculatorApp.pdb
